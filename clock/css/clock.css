@@ -1,0 +1,7 @@
+.box {
+	text-align: center;
+}
+#clock {
+	border: solid thin #ccc;
+	margin-top: 50px;
+}
